@@ -11,7 +11,7 @@
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
-      "value": ""
+      "value": "5240952139:AAEMfV_KgB9woxSkjaNPp9ygRvE9GeyqHaQ"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
@@ -27,7 +27,7 @@
     },
     "CHANNEL_ID":{
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
-      "value": "-100"
+      "value": "-1001742630024"
     },
     "FORCE_SUB_CHANNEL":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
